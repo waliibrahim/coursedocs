@@ -257,3 +257,8 @@ Central Connecticut State University provides reasonable accommodations in accor
 **Academic Calendar - see: CCSU’s full calendar for the add/drop periods, withdraw options, etc. -** [**https://www.ccsu.edu/calendar/**](https://www.ccsu.edu/calendar/)  
 **See also our class website & the Google calendar at** [**http://bit.ly/ccsuTE350calendar**](http://bit.ly/ccsuTE350calendar)
 
+![CC BY - Attribution only license for this syllabus](.gitbook/assets/cc-by-88x31%20%281%29.png)
+
+  
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+

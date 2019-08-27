@@ -20,3 +20,8 @@ description: >-
 
 [![Join the chat at https://gitter.im/ccsuteched/community](https://badges.gitter.im/ccsuteched/community.svg)](https://gitter.im/ccsuteched/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+![CC BY - Attribution only license \(by Sharon Clapp, CCSU Library, Fall 2019\)](.gitbook/assets/cc-by-88x31.png)
+
+  
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
