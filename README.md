@@ -24,9 +24,9 @@ description: >-
 
 [Week 1 - Assignments](https://app.gitbook.com/@ccsute350/s/te350/~/edit/drafts/-LnJtAnvb1e3Kl7NhZAK/week-1-assignments)
 
+[Getting your Raspberry Pi](https://app.gitbook.com/@ccsute350/s/te350/~/edit/drafts/-LnK6ZVpstDFP1Jpa-P-/week-1-assignments/getting-your-raspberry-pi)
+
 [Signing up for Github](https://app.gitbook.com/@ccsute350/s/te350/~/edit/drafts/-LnJtAnvb1e3Kl7NhZAK/week-1-assignments/signing-up-for-github)
-
-
 
 ## ccsuteched
 
