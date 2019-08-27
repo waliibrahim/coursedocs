@@ -1,14 +1,15 @@
 ---
 description: >-
   For the CCSU Technology & Engineering Education Department TE350: Current
-  Topics in STEM Education (Coding)
+  Topics in STEM Education (Coding) - Fall 2019 (Instructor: Sharon Clapp,
+  Digital Librarian)
 ---
 
 # Documentation for the TE350 course
 
 ## **TE350: Current Topics in STEM Education \(Coding\)**
 
-## Documentation for the TE350 course
+## Documentation for the TE350 course - Fall 2019
 
 * Google docs version of Syllabus - [http://bit.ly/TE350syllabus-GDoc](http://bit.ly/TE350syllabus-GDoc)
 * Github for this course - the "organization" - [https://github.com/ccsu-te350 ](https://github.com/ccsu-te350%20)
