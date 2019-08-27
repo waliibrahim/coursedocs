@@ -14,8 +14,19 @@ description: >-
 * Google docs version of Syllabus - [http://bit.ly/TE350syllabus-GDoc](http://bit.ly/TE350syllabus-GDoc)
 * Github for this course - the "organization" - [https://github.com/ccsu-te350 ](https://github.com/ccsu-te350%20)
   * Github synced repository for this Gitbook documentation - [https://github.com/ccsu-te350/coursedocs](https://github.com/ccsu-te350/coursedocs)
+* GitBook front-end for the TE350 course documentation - [https://ccsute350.gitbook.io/te350/](https://ccsute350.gitbook.io/te350/)
 * [Gitter ](https://gitter.im/ccsuteched/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link)for course \(online "chatroom"\)
 * Google Calendar for course - [https://bit.ly/ccsuTE350](https://bit.ly/ccsuTE350)
+
+[Syllabus for TE350: Current Topics in STEM Education](https://app.gitbook.com/@ccsute350/s/te350/~/edit/drafts/-LnJtAnvb1e3Kl7NhZAK/syllabus)
+
+[Week 1 - Class content](https://app.gitbook.com/@ccsute350/s/te350/~/edit/drafts/-LnJtAnvb1e3Kl7NhZAK/week-1-class)
+
+[Week 1 - Assignments](https://app.gitbook.com/@ccsute350/s/te350/~/edit/drafts/-LnJtAnvb1e3Kl7NhZAK/week-1-assignments)
+
+[Signing up for Github](https://app.gitbook.com/@ccsute350/s/te350/~/edit/drafts/-LnJtAnvb1e3Kl7NhZAK/week-1-assignments/signing-up-for-github)
+
+
 
 ## ccsuteched
 
