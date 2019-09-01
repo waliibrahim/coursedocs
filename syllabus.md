@@ -58,7 +58,7 @@ It is key to everyone’s success that you come to class and engage with the ins
   * The newer Raspberry Pi 4B or Raspberry Pi 3B / 3B+ will be ideal & is what the lessons are based on. RPi Zero may not work or you may require your own investigations to make it work. Please see the details of purchasing at [https://www.raspberrypi.org/documentation/faqs/\#buying](https://www.raspberrypi.org/documentation/faqs/#buying). The base cost of just the board \(no power charger, cable for monitor, keyboard, mouse, case, or mini-SD card\). It is possible that you will have to upgrade your operating system and/or software packages, but troubleshooting these issues will be part of the learning process. Brand new, with none of the needed extras the board only costs $35. You will also need a power cable & an SD card. To run the little machine at home, you’ll also want: cables \(HDMI if RPi 3B/4B or mini HDMI & USB OTG for R Pi Zero\); the actual monitor & the keyboard & mouse. You can buy a whole kit with basics & extras for more through such sites as Vilros or Canakit. 
   * To set up your Raspberry Pi, you will need:
     * Power cable / charger, compatible with the Pi
-    * an SD card for the operating system
+    * a micro-SD card for the operating system
     * cable for display/monitor \(e.g., HDMI\)
     * keyboard 
     * mouse
