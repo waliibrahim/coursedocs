@@ -9,7 +9,7 @@ description: Week 1 - make sure you've ordered / procured a Pi
     * Brand new, with none of the needed extras the board only costs $35. You will also need a power cable & a micro SD card. To run the little machine at home, you’ll also want: cables \(HDMI if RPi 3B/4B or mini HDMI & USB OTG for R Pi Zero\); the actual monitor & the keyboard & mouse. You can buy a whole kit with basics & extras for more through such sites as Vilros \(e.g., [https://vilros.com/pages/search-results-page?collection=raspberry-pi-kits&gclid=CjwKCAjwqZPrBRBnEiwAmNJsNo3tkTtGDS8Q-KldfsXXVOMo7hnJp\_jThnQDHa88s0-YWkMRh-tn8hoCBrQQAvD\_BwE&page=1&rb\_snize\_facet14=RP4%7CRP3B%2B](https://vilros.com/pages/search-results-page?collection=raspberry-pi-kits&gclid=CjwKCAjwqZPrBRBnEiwAmNJsNo3tkTtGDS8Q-KldfsXXVOMo7hnJp_jThnQDHa88s0-YWkMRh-tn8hoCBrQQAvD_BwE&page=1&rb_snize_facet14=RP4%7CRP3B%2B)\) or Canakit \([https://www.canakit.com/raspberry-pi-4-2gb.html](https://www.canakit.com/raspberry-pi-4-2gb.html)\). 
     * To set up your Raspberry Pi, you will need:
       * Power cable / charger, compatible with the Pi
-      * an SD card for the operating system
+      * a micro SD card for the operating system
       * cable for display/monitor \(e.g., HDMI\)
       * keyboard \[user supplies, not part of most kits\]
       * mouse \[user supplies, not part of most kits\]
