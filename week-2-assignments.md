@@ -11,7 +11,7 @@ $ git config --global user.name "John Doe"
 $ git config --global user.email johndoe@example.com
 ```
 
-1b. Send me a copy or a screenshot of your .gitconfig file via email or  \(.gitconfig is a “hidden file” - in Windows, probably will be at C:\Users\yourusername\.gitconfig; in Mac, will likely be at /Users/yourname
+1b. Send me a copy or a screenshot of your .gitconfig file via email or  \(.gitconfig is a “hidden file” - in Windows, probably will be at C:\Users\yourusername\.gitconfig; in Mac, will likely be at /Users/yourname\)
 
 1c. note any challenges you had with installation / .gitconfig finding \(e.g., in Gitter Week 2 room, or email directly to me\)
 
