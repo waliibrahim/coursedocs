@@ -7,4 +7,5 @@
   * [Getting your Raspberry Pi](week-1-assignments/getting-your-raspberry-pi.md)
   * [Signing up for Github](week-1-assignments/signing-up-for-github.md)
 * [Week 2 in class](week-2-in-class.md)
+* [Week 2 - Assignments](week-2-assignments.md)
 
