@@ -82,6 +82,8 @@ git remote set-url origin [https://github.com/youraccountname/yournewemptygitrep
 * Github help at [https://help.github.com/en](https://help.github.com/en)
 * Github guides at [https://guides.github.com/](https://guides.github.com/)
 * Github Learning Lab at [https://lab.github.com/](https://lab.github.com/)
+* "Undoing" changes in git - [https://www.atlassian.com/git/tutorials/undoing-changes](https://www.atlassian.com/git/tutorials/undoing-changes)
+* Resolving git merge issues / troubleshooting git video - [https://youtu.be/h1e8oC7g0Ps](https://youtu.be/h1e8oC7g0Ps)
 * 2 forking-specific resources:
   * [https://guides.github.com/activities/forking/](https://guides.github.com/activities/forking/) \[the activity that you have to do in \#2 essentially\)
   * a good, short video on what a fork is and how to do it from the Data School series:  [https://www.youtube.com/watch?v=f5grYMXbAV0&list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD&index=5](https://www.youtube.com/watch?v=f5grYMXbAV0&list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD&index=5)
