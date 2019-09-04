@@ -12,6 +12,10 @@
 
 **2. fork the ccsute350 repo coursedocs \(if you didn’t already\)**
 
+**\[if you are running into problems with "forking" - the concept and the how on Github - check out this short video** [**https://www.youtube.com/watch?v=f5grYMXbAV0&list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD&index=5**](https://www.youtube.com/watch?v=f5grYMXbAV0&list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD&index=5) **\(approx. 2 mins\)\]**
+
+**In fact, this playlist of short youtube videos covers everything you will need to know in git \(though does so for data scientists, still the same toolset/functions\) -** [**http://www.youtube.com/playlist?list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD**](http://www.youtube.com/playlist?list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD)\*\*\*\*
+
 **2a. clone the coursedocs repo to your local repository, work from your clone of the forked repo**
 
 **2b. edit the syllabus.md** 
