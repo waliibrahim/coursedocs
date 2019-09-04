@@ -53,7 +53,12 @@ In fact, this playlist of short youtube videos covers everything you will need t
 
 git remote set-url origin [https://github.com/youraccountname/yournewemptygitrepo.git](https://github.com/youraccountname/yournewemptygitrepo.git)
 
-   only then can you git push origin master  
+   only then can you git push origin master
+
+But what about getting updates from the repository from which you forked your own? \[origin is the remote / github for your fork, not the original repo\] - the "upstream"
+
+See more on adding the upstream remote and then git fetch / merge or git pull to get updates from master repo \(from which you forked your own\) - [https://www.gun.io/blog/how-to-github-fork-branch-and-pull-request](https://www.gun.io/blog/how-to-github-fork-branch-and-pull-request)
+
 
 
 **Read from** _**Pro Git**_ **\(free online, openly licensed at** [**https://git-scm.com/book/en/v2**](https://git-scm.com/book/en/v2)**\) - at least:** 
@@ -84,6 +89,7 @@ git remote set-url origin [https://github.com/youraccountname/yournewemptygitrep
 * Github Learning Lab at [https://lab.github.com/](https://lab.github.com/)
 * "Undoing" changes in git - [https://www.atlassian.com/git/tutorials/undoing-changes](https://www.atlassian.com/git/tutorials/undoing-changes)
 * Resolving git merge issues / troubleshooting git video - [https://youtu.be/h1e8oC7g0Ps](https://youtu.be/h1e8oC7g0Ps)
+* Github fork, upstream remote, pull requests - [https://www.gun.io/blog/how-to-github-fork-branch-and-pull-request](https://www.gun.io/blog/how-to-github-fork-branch-and-pull-request)
 * 2 forking-specific resources:
   * [https://guides.github.com/activities/forking/](https://guides.github.com/activities/forking/) \[the activity that you have to do in \#2 essentially\)
   * a good, short video on what a fork is and how to do it from the Data School series:  [https://www.youtube.com/watch?v=f5grYMXbAV0&list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD&index=5](https://www.youtube.com/watch?v=f5grYMXbAV0&list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD&index=5)
