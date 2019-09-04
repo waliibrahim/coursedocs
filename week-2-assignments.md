@@ -62,6 +62,15 @@
 
 * **Read: Getting Legit with Git and GitHub: Your First Pull Request** [**https://thenewstack.io/getting-legit-with-git-and-github-your-first-pull-request/**](https://thenewstack.io/getting-legit-with-git-and-github-your-first-pull-request/)
 
+### References:
+
+* Data School's series on git \(& github\) seemed excellent, videos in short segments - view full playlist at  ****[http://www.youtube.com/playlist?list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD](http://www.youtube.com/playlist?list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD)
+* Data School has an excellent-looking Git Quick Reference for Beginners page at: [https://www.dataschool.io/git-quick-reference-for-beginners/](https://www.dataschool.io/git-quick-reference-for-beginners/)
+* A little irreverent, but easy to read website/tutorial on git [https://rogerdudler.github.io/git-guide/](https://rogerdudler.github.io/git-guide/) called: "git - the simple guide: just a simple guide for getting started with git. no deep shit ;\)" by Roger Dudler
+* A git cheatsheet for beginners that I think looks a little easier to grasp than the Github Education cheatsheet \(from the Roger Dudler website on simple git\) - [https://rogerdudler.github.io/git-guide/files/git\_cheat\_sheet.pdf](https://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
+* Github Education's cheatsheet of git commands: [https://education.github.com/git-cheat-sheet-education.pdf](https://education.github.com/git-cheat-sheet-education.pdf)
+* The _**Pro Git**_ book \(openly licensed, free online\) at [https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)
+
 
 
 \*\*\*\*
