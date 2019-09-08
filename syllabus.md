@@ -1,4 +1,4 @@
----
+﻿---
 description: >-
   This is the gitbooks <--> github (markdown) version of the syllabus, you can
   review the original Google docs-based syllabus at:
@@ -83,7 +83,7 @@ It is key to everyone’s success that you come to class and engage with the ins
 
 * Gitter room - instructor or classmates \(see notes on extra credit\). Follow common sense guidelines for civility \(e.g., in alignment with the GitHub Community’s “Code of Conduct” - e.g., [https://github.community/t5/Welcome/Code-of-Conduct/m-p/65\#M37](https://github.community/t5/Welcome/Code-of-Conduct/m-p/65#M37)\)
 * Call or email instructor \(some weekends, the instructor reserves the right to be absent / away from email\). On days / dates where the instructor may be away for a conference, she will schedule a substitute instructor, which may slightly change the order of lessons.
-* There are specific online communities and sites that can help you with coding and Raspberry Pi challenges. Follow their instructions on ettiquette \(e.g., Stack Overflow, see such guidelines as this question checklist - [https://meta.stackoverflow.com/questions/260648/stack-overflow-question-checklist](https://meta.stackoverflow.com/questions/260648/stack-overflow-question-checklist)\)
+* There are specific online communities and sites that can help you with coding and Raspberry Pi challenges. Follow their instructions on etiquette \(e.g., Stack Overflow, see such guidelines as this question checklist - [https://meta.stackoverflow.com/questions/260648/stack-overflow-question-checklist](https://meta.stackoverflow.com/questions/260648/stack-overflow-question-checklist)\)
 * Do not plagiarize or game the system of assessment. Feel free to adapt existing code, as long as you are learning from your work. Participation and doing the work will make it easy for you to get a decent grade in this course. Violating academic conduct and student behavior standards will lead to failing the course and possible additional measures - see: Academic Integrity / Misconduct section.
 
 **Disclaimer:**
@@ -262,3 +262,4 @@ Central Connecticut State University provides reasonable accommodations in accor
   
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
+Janice Sobanski!
