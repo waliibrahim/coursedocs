@@ -8,4 +8,5 @@
   * [Signing up for Github](week-1-assignments/signing-up-for-github.md)
 * [Week 2 in class](week-2-in-class.md)
 * [Week 2 - Assignments](week-2-assignments.md)
+* [Week 3 - Class content](week-3-class-content.md)
 
