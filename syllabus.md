@@ -1,4 +1,4 @@
-﻿---
+---
 description: >-
   This is the gitbooks <--> github (markdown) version of the syllabus, you can
   review the original Google docs-based syllabus at:
@@ -11,13 +11,13 @@ description: >-
 
 ## **TE350: Current Topics in STEM Education**
 
-Course Syllabus 
+Course Syllabus
 
 \(Note: May be shifted throughout semester, check the github-based site for latest version & to review modifications.\)
 
 **Available as a Google Doc at:** [**http://bit.ly/TE350syllabus-GDoc**](http://bit.ly/TE350syllabus-GDoc)
 
-**Meeting times / days:** 
+**Meeting times / days:**
 
 * 9:25 am-10:40 am Mondays & Wednesdays
 
@@ -35,14 +35,13 @@ Course Syllabus
 **Instructor Information:**
 
 Sharon Clapp, Digital Resources Librarian \(& resident coder\), [sclapp@ccsu.edu](mailto:sclapp@ccsu.edu)  
-Phone: 860-832-2059   
+Phone: 860-832-2059  
 Office Location: Elihu Burritt Library 209-01 \(2nd floor of library, on hallway next to Special collections, with Reference Librarians - see Information Desk if you have trouble locating me\)  
-Office Hours: MW, 11-12:30, most Thursdays 10-12, & flexibly, by appointment  
-****
+Office Hours: MW, 11-12:30, most Thursdays 10-12, & flexibly, by appointment
 
 **Prereqs.:** TE 299
 
-**Description:** 
+**Description:**
 
 Course focuses on contemporary issues and emerging topics in STEM Education.  
 Specifically, this iteration of the course covers: common coding curricula that you may teach and/or use for TE class projects, the core computing & networking concepts required to support coding-related projects, open educational resources/open source software & hardware, growth mindset, honing & teaching computational thinking/algorithmic thinking through coding projects. This is a 3-cr course, which means that, according to the federal guidelines, you can expect on average approximately 6 hours of work outside of the classroom, plus attendance time in class, your mileage may vary, particularly given the newness of this course \(and pending your prior experience with coding\). Either way, I want you to be able to stretch, learn, and grow, both in support of the projects that you may create and in terms of your role as educators-in-training. We need to be collaborative, as coding is a co-creative process. The speed with which this technology changes means that no one person can expect to be an expert in all things “computers” or code. As such, we will take an open source software approach to our work - sharing solutions and improvements with one another. Instead, knowing where to look for help and helping one another will be the core skills that will allow you \(and the whole class\) to be successful.
@@ -100,11 +99,9 @@ It is key to everyone’s success that you come to class and engage with the ins
 
 **Grading / Assessment:**
 
-There will be many points of self-assessment & a number of summative assessments of literacy on technical topics that we cover. I encourage you to follow the assignments. Memory is enhanced by regular exercises & self-tests, which will be part of your assignments. At the same time, the purpose of this course is not to make you the best possible coder \(though it would be great if you achieved that\). It is to learn how to work with code and teach enough coding to your students to enhance core skills and/or to "hack" or "make" code-enhanced projects. How much you learn and how deeply you learn the code is up to you, but by the end of this course, having done the work, you should have enough of a foundation to be a “hacker” in the best possible sense. You will have foundational knowledge that allows you to troubleshoot basic computing, networking, web coding, and other coding issues. You will learn where you can get resources, learn what you need, and get the help that you need from communities of practice in the code world. Your participation improves this course, so this is a positive opportunity for co-creation.  
-****
+There will be many points of self-assessment & a number of summative assessments of literacy on technical topics that we cover. I encourage you to follow the assignments. Memory is enhanced by regular exercises & self-tests, which will be part of your assignments. At the same time, the purpose of this course is not to make you the best possible coder \(though it would be great if you achieved that\). It is to learn how to work with code and teach enough coding to your students to enhance core skills and/or to "hack" or "make" code-enhanced projects. How much you learn and how deeply you learn the code is up to you, but by the end of this course, having done the work, you should have enough of a foundation to be a “hacker” in the best possible sense. You will have foundational knowledge that allows you to troubleshoot basic computing, networking, web coding, and other coding issues. You will learn where you can get resources, learn what you need, and get the help that you need from communities of practice in the code world. Your participation improves this course, so this is a positive opportunity for co-creation.
 
-**Potential points allocation / assessment for grades:**  
-
+**Potential points allocation / assessment for grades:**
 
 |  |  | **Point Range** | **GPA** |
 | :--- | :--- | :--- | :--- |
@@ -120,10 +117,9 @@ There will be many points of self-assessment & a number of summative assessments
 |  |  | 15-42 | 1 |
 |  |  | 0-14 | 0 |
 
-**How to get Points:**  
+**How to get Points:**
 
-
-| 1. Class presence & participation: showing up & being present in class helps you, helps your classmates, & the instructor   | Up to 52 points  |
+| 1. Class presence & participation: showing up & being present in class helps you, helps your classmates, & the instructor | Up to 52 points |
 | :--- | :--- |
 |  | Grading 26 days' presence \(excluding exam dates\), up to 2 points / day \(see also: Absence Policy, at top of syllabus - max: 2 unexcused absences\) |
 
@@ -133,44 +129,26 @@ There will be many points of self-assessment & a number of summative assessments
 
 | **2. Weekly assignments / homework:** | **up to 70 points - 14 wks' assignments / up to 5 pts per assignment \(15th wk = concentrate on drafting finished final project & final exam preparation\). Rubrics offered individually for assignment appropriateness** |  |
 | :--- | :--- | :--- |
-| **3. Exams:**  | **up to 20 points total** |  |
+| **3. Exams:** | **up to 20 points total** |  |
 | **Midterm** |  | **up to 10 points** |
 | **Final** |  | **up to 10 points** |
 | **4. Projects:** | **up to 26 total** |  |
 | **Midterm \(short paper\)** |  | **up to 8 points** |
 | **Final project** |  | **up to 18 points** |
 
+| **Weekly assignments** | Each week / section, you'll be asked to complete specific assignments & in many cases also to offer a short writeup, correction, or narrative/commentary, about the week's lessons - e.g., answering a question related to readings, what you learned, what was effective, what was not, changes you would make to refine it. Due by Monday, class time, unless otherwise specified. The due dates are designed to help you progress. \(Late submissions can be accepted up to a week after, the cutoff on Monday of the following week, but they will be docked points.\) |
+| :--- | :--- |
+
+
+| **Midterm** | Exact Rubrics to be offered before midterm. Mid-term project: 1 concept-related short paper on: \(1\) computational thinking and how it might apply to engineering technology curricula \(with specific examples\); \(2\) open as an educational approach \(e.g., open pedagogy, open source software & hardware, open educational resources\) and how it would apply to teaching coding/computational thinking; \(3\) growth mindset / stereotype threat and how and why you might use it as part of teaching computational thinking/coding |
+| :--- | :--- |
+
+
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"><b>Weekly assignments</b>
-      </th>
-      <th style="text-align:left">Each week / section, you&apos;ll be asked to complete specific assignments
-        &amp; in many cases also to offer a short writeup, correction, or narrative/commentary,
-        about the week&apos;s lessons - e.g., answering a question related to readings,
-        what you learned, what was effective, what was not, changes you would make
-        to refine it. Due by Monday, class time, unless otherwise specified. The
-        due dates are designed to help you progress. (Late submissions can be accepted
-        up to a week after, the cutoff on Monday of the following week, but they
-        will be docked points.)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left"><b>Midterm</b>
-      </td>
-      <td style="text-align:left">Exact Rubrics to be offered before midterm.
-        <br />Mid-term project: 1 concept-related short paper on: (1) computational
-        thinking and how it might apply to engineering technology curricula (with
-        specific examples); (2) open as an educational approach (e.g., open pedagogy,
-        open source software &amp; hardware, open educational resources) and how
-        it would apply to teaching coding/computational thinking; (3) growth mindset
-        / stereotype threat and how and why you might use it as part of teaching
-        computational thinking/coding</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Final Projec</b>t</td>
-      <td style="text-align:left">
+      <th style="text-align:left"><b>Final Projec</b>t</th>
+      <th style="text-align:left">
         <p>Exact Rubrics to be offered before midterm.</p>
         <p>The Final Project will be to take and enhance any 1 specific section of
           this course taking into account your own thoughts, as well as the critiques
@@ -181,16 +159,11 @@ There will be many points of self-assessment & a number of summative assessments
           project &amp; lessons around it. Identify your target &quot;audience&quot;
           of learners, offer learning objectives, assessment methods, and lesson
           content.</p>
-      </td>
+      </th>
     </tr>
-  </tbody>
-</table>| **You can earn Extra credits:** |  |
-| :--- | :--- |
-|  | **up to 3 or up to 5 points per option, but cannot make up more than 5 points of your grade** |
-| Hour of Code volunteer with CS club | up to 3 points if verified |
-| Conducting a coding class for local community organization \(e.g., at your local public library or other\) - I would recommend that you work with at least 1 other student to conduct this class - each person involved can receive up to 5 points | Up to 5 points per student instructing per session \(if plan to do a series of sessions, please consult with the instructor & make certain you have prepared in consultation with the organization\), rubric for assessment of this work will be provided if/when you plan to do this \(will require much preparation / planning on your part\) |
-
-**For dates, see the course’s Google calendar at: http://bit.ly/ccsuTE350calendar** 
+  </thead>
+  <tbody></tbody>
+</table>**For dates, see the course’s Google calendar at:** [http://bit.ly/ccsuTE350calendar](http://bit.ly/ccsuTE350calendar)
 
 **See GitBook for the latest in Assignments & the updates to our syllabus, as it evolves**
 
@@ -230,41 +203,34 @@ There will be many points of self-assessment & a number of summative assessments
 
 “At Central Connecticut State University we value personal integrity as fundamental to our interactions with each other. We believe that one of the purposes of a University education is for students learn to think critically, to develop evaluative skills, and to express their own opinions and voices. We place special weight on academic honesty in all of our intellectual pursuits because it is a value that is fundamental to academic life and scholarly practice. All members of the University community are obligated to uphold high standards of academic honesty in their scholarship and learning. Therefore, we expect students to take personal responsibility for their intellectual work and to respect and acknowledge the ideas of others. Academic honesty means doing one's own work and giving proper credit to the work and ideas of others. It is the responsibility of each student to become familiar with what constitutes academic dishonesty and plagiarism and to avoid all forms of cheating and plagiarism.
 
-“According to the Student Code of Conduct and Statement of Judicial Procedures, academic misconduct “includes, but is not limited to, providing or receiving assistance from another, in a manner not authorized by the instructor, in the creation of work to be submitted for academic evaluation \(including papers, projects and examinations\).  
+“According to the Student Code of Conduct and Statement of Judicial Procedures, academic misconduct “includes, but is not limited to, providing or receiving assistance from another, in a manner not authorized by the instructor, in the creation of work to be submitted for academic evaluation \(including papers, projects and examinations\).
 
+“Plagiarism is defined as presenting as one’s own, the ideas or words of another person, for academic evaluation, without proper acknowledgment. Plagiarism includes, but is not limited to: \(i\) copying sentences, phrases, paragraphs, tables, figures, or data directly or in slightly modified form from a book, article, or other academic source without using quotation marks or giving proper acknowledgment to the original author or source; \(ii\) copying information from Internet Web sites and submitting it as one’s own work; \(iii\) buying papers for the purpose of turning them in as one’s own work; and \(iv\) selling or lending papers to another person for submission by that other person, for academic evaluation, as his or her own work.”
 
-“Plagiarism is defined as presenting as one’s own, the ideas or words of another person, for academic evaluation, without proper acknowledgment. Plagiarism includes, but is not limited to: \(i\) copying sentences, phrases, paragraphs, tables, figures, or data directly or in slightly modified form from a book, article, or other academic source without using quotation marks or giving proper acknowledgment to the original author or source; \(ii\) copying information from Internet Web sites and submitting it as one’s own work; \(iii\) buying papers for the purpose of turning them in as one’s own work; and \(iv\) selling or lending papers to another person for submission by that other person, for academic evaluation, as his or her own work.”  
+**How does this work in an open source coding class?**
 
+In this classroom, it’s crucial that when you are writing papers / projects / lesson plans, that you carefully cite all of the places from which you have gotten project ideas and step-by-step directions. If you are compiling resources, you need to make certain that they are openly licensed, as I will check them. If, for some reason, you see no openly licensed options, you will need to either create your own list of steps / documentation or simply point out / link to the copyright / all rights reserved materials. Part of this course is about learning to distinguish between those materials that you are free to compile with your own work \(& how to cite that\) and those that cannot be used in this way. Adding your own openly-licensed work to the “commons” of knowledge when there is only a proprietary option will be looked upon favorably, so you should point out that you have done so in your project write-up. A big caution here is that our classroom’s github may be open to the public. You not only must be concerned in following these rules of academic integrity to ensure that you are not in violation of the university’s policies, but you may be subject to a copyright infringement lawsuit. If you have questions, you can talk with me about this further by appointment / office hours or via email \(although I reserve the right to be away certain weekends\).
 
-**How does this work in an open source coding class?**  
-
-
-In this classroom, it’s crucial that when you are writing papers / projects / lesson plans, that you carefully cite all of the places from which you have gotten project ideas and step-by-step directions. If you are compiling resources, you need to make certain that they are openly licensed, as I will check them. If, for some reason, you see no openly licensed options, you will need to either create your own list of steps / documentation or simply point out / link to the copyright / all rights reserved materials. Part of this course is about learning to distinguish between those materials that you are free to compile with your own work \(& how to cite that\) and those that cannot be used in this way. Adding your own openly-licensed work to the “commons” of knowledge when there is only a proprietary option will be looked upon favorably, so you should point out that you have done so in your project write-up. A big caution here is that our classroom’s github may be open to the public. You not only must be concerned in following these rules of academic integrity to ensure that you are not in violation of the university’s policies, but you may be subject to a copyright infringement lawsuit. If you have questions, you can talk with me about this further by appointment / office hours or via email \(although I reserve the right to be away certain weekends\).  
-
-
-**Statement on Discrimination and Harassment**  
+**Statement on Discrimination and Harassment**
 
 **see:** [**https://www.ccsu.edu/diversity/**](https://www.ccsu.edu/diversity/)
 
-Central Connecticut State University strives to maintain our campus as a place of work and study for faculty, staff, and students that is free of all forms of prohibited discrimination and harassment based upon age; ancestry, color; gender identity and expression; intellectual disability; learning disability; mental disorder; physical disability; marital status, national origin; race; religious creed; sex, \(including pregnancy, transgender status, sexual harassment and sexual assault\); sexual orientation; or any other status protected by federal or state laws.  Any student who has concerns about should contact the Office of Diversity and Equity \(ODE\) at 860‐832‐1652, Student Affairs at 860‐832‐1601, or his/her faculty member. The ODE is located on the main floor of Davidson Hall, room 102. Sexual Misconduct, Intimate Partner Violence and Stalking Central Connecticut State University \(CCSU\) will not tolerate sexual misconduct against students, staff, faculty, or visitors in any form, including but not limited to: sexual assault, sexual exploitation, sexual harassment or stalking, as defined in CCSU policies. For additional information, please consult the CCSU policy at [http://www.ccsu.edu/diversity/policies/BORSexualMisconductFeb2015.pdf](http://www.ccsu.edu/diversity/policies/BORSexualMisconductFeb2015.pdf).  All faculty members and staff have a duty to report incidents of sexual harassment including sexual misconduct, intimate partner violence and stalking to the Office of Diversity and Equity, Davidson Hall, 102. To file a report contact: Diversity and Equity \(860‐832‐1652\), Student Conduct \(860‐832‐1667\) or Student Affairs \(860‐832‐1601\). For criminal complaints, contact the University Police \(860‐832‐2375\). For support and advocacy contact: Office of Victim Advocacy; Student Wellness Services at 860‐832‐1945 \(confidential\); Women’s Center at 860‐832‐1655; the local YWCA’s Sexual Assault Crisis Services Hotline at 860‐223‐1787 \(confidential\).  
-****
+Central Connecticut State University strives to maintain our campus as a place of work and study for faculty, staff, and students that is free of all forms of prohibited discrimination and harassment based upon age; ancestry, color; gender identity and expression; intellectual disability; learning disability; mental disorder; physical disability; marital status, national origin; race; religious creed; sex, \(including pregnancy, transgender status, sexual harassment and sexual assault\); sexual orientation; or any other status protected by federal or state laws. Any student who has concerns about should contact the Office of Diversity and Equity \(ODE\) at 860‐832‐1652, Student Affairs at 860‐832‐1601, or his/her faculty member. The ODE is located on the main floor of Davidson Hall, room 102. Sexual Misconduct, Intimate Partner Violence and Stalking Central Connecticut State University \(CCSU\) will not tolerate sexual misconduct against students, staff, faculty, or visitors in any form, including but not limited to: sexual assault, sexual exploitation, sexual harassment or stalking, as defined in CCSU policies. For additional information, please consult the CCSU policy at [http://www.ccsu.edu/diversity/policies/BORSexualMisconductFeb2015.pdf](http://www.ccsu.edu/diversity/policies/BORSexualMisconductFeb2015.pdf). All faculty members and staff have a duty to report incidents of sexual harassment including sexual misconduct, intimate partner violence and stalking to the Office of Diversity and Equity, Davidson Hall, 102. To file a report contact: Diversity and Equity \(860‐832‐1652\), Student Conduct \(860‐832‐1667\) or Student Affairs \(860‐832‐1601\). For criminal complaints, contact the University Police \(860‐832‐2375\). For support and advocacy contact: Office of Victim Advocacy; Student Wellness Services at 860‐832‐1945 \(confidential\); Women’s Center at 860‐832‐1655; the local YWCA’s Sexual Assault Crisis Services Hotline at 860‐223‐1787 \(confidential\).
 
 **Disability Statement**
 
-Central Connecticut State University provides reasonable accommodations in accordance with the Americans with Disabilities Act and Section 504 of the Rehabilitation Act for students with documented disabilities on an individualized basis. If you are a student with a documented disability, and would like to request academic accommodations, you are encouraged to contact Student Disability Services \(SDS\) at 860-832-1952, or email [disabilityservices@ccsu.edu](mailto:disabilityservices@ccsu.edu). Please visit the SDS website at [http://www.ccsu.edu/sds/](http://www.ccsu.edu/sds/) to download an Intake form and documentation requirements. Once approved, SDS suggests that students discuss their approved accommodations with their professors, as well as any other additional medical emergency needs. Temporary impairments may also qualify for accommodations. Please note that accommodations are not retroactive and must be requested each semester.  
-
+Central Connecticut State University provides reasonable accommodations in accordance with the Americans with Disabilities Act and Section 504 of the Rehabilitation Act for students with documented disabilities on an individualized basis. If you are a student with a documented disability, and would like to request academic accommodations, you are encouraged to contact Student Disability Services \(SDS\) at 860-832-1952, or email [disabilityservices@ccsu.edu](mailto:disabilityservices@ccsu.edu). Please visit the SDS website at [http://www.ccsu.edu/sds/](http://www.ccsu.edu/sds/) to download an Intake form and documentation requirements. Once approved, SDS suggests that students discuss their approved accommodations with their professors, as well as any other additional medical emergency needs. Temporary impairments may also qualify for accommodations. Please note that accommodations are not retroactive and must be requested each semester.
 
 **Academic Calendar - see: CCSU’s full calendar for the add/drop periods, withdraw options, etc. -** [**https://www.ccsu.edu/calendar/**](https://www.ccsu.edu/calendar/)  
 **See also our class website & the Google calendar at** [**http://bit.ly/ccsuTE350calendar**](http://bit.ly/ccsuTE350calendar)
 
 ![CC BY - Attribution only license for this syllabus](.gitbook/assets/cc-by-88x31%20%281%29.png)
 
-  
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
+**Co-creators of this course include:**
 
-
-Olivia Franzese
-Janice Sobanski!
+Olivia Franzese   
+Janice Sobanski!   
 Tucker Boman
 
