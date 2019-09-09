@@ -55,10 +55,10 @@ It is key to everyone’s success that you come to class and engage with the ins
 
 * I do not require a textbook. I have brought together many resources - both all rights reserved but free for you to use in this course and openly licensed materials. I have created materials to fill in gaps in order to reduce the costs of this course to you \(& also because this technology is fast-moving\).  \(More on copyright & licensing in our first class meeting\)
 * You must purchase a Raspberry Pi that will be brought into class for work and will be used as the basis for configuration assignments, the recommended \(tech supportable by your instructor\) version would be to order: 
-  * The newer Raspberry Pi 4B or Raspberry Pi 3B / 3B+ will be ideal & is what the lessons are based on. RPi Zero may not work or you may require your own investigations to make it work. Please see the details of purchasing at [https://www.raspberrypi.org/documentation/faqs/\#buying](https://www.raspberrypi.org/documentation/faqs/#buying). The base cost of just the board \(no power charger, cable for monitor, keyboard, mouse, case, or mini-SD card\). It is possible that you will have to upgrade your operating system and/or software packages, but troubleshooting these issues will be part of the learning process. Brand new, with none of the needed extras the board only costs $35. You will also need a power cable & an SD card. To run the little machine at home, you’ll also want: cables \(HDMI if RPi 3B/4B or mini HDMI & USB OTG for R Pi Zero\); the actual monitor & the keyboard & mouse. You can buy a whole kit with basics & extras for more through such sites as Vilros or Canakit. 
+  * The newer Raspberry Pi 4B or Raspberry Pi 3B / 3B+ will be ideal & is what the lessons are based on. RPi Zero may not work or you may require your own investigations to make it work. Please see the details of purchasing at [https://www.raspberrypi.org/documentation/faqs/\#buying](https://www.raspberrypi.org/documentation/faqs/#buying). The base cost of just the board \(no power charger, cable for monitor, keyboard, mouse, case, or mini-SD card\). It is possible that you will have to upgrade your operating system and/or software packages, but troubleshooting these issues will be part of the learning process. Brand new, with none of the needed extras the board only costs $35. You will also need a power cable & a micro SD card. To run the little machine at home, you’ll also want: cables \(HDMI if RPi 3B/4B or mini HDMI & USB OTG for R Pi Zero\); the actual monitor & the keyboard & mouse. You can buy a whole kit with basics & extras for more through such sites as Vilros or Canakit. 
   * To set up your Raspberry Pi, you will need:
     * Power cable / charger, compatible with the Pi
-    * an SD card for the operating system
+    * a micro-SD card for the operating system
     * cable for display/monitor \(e.g., HDMI\)
     * keyboard 
     * mouse
@@ -83,7 +83,7 @@ It is key to everyone’s success that you come to class and engage with the ins
 
 * Gitter room - instructor or classmates \(see notes on extra credit\). Follow common sense guidelines for civility \(e.g., in alignment with the GitHub Community’s “Code of Conduct” - e.g., [https://github.community/t5/Welcome/Code-of-Conduct/m-p/65\#M37](https://github.community/t5/Welcome/Code-of-Conduct/m-p/65#M37)\)
 * Call or email instructor \(some weekends, the instructor reserves the right to be absent / away from email\). On days / dates where the instructor may be away for a conference, she will schedule a substitute instructor, which may slightly change the order of lessons.
-* There are specific online communities and sites that can help you with coding and Raspberry Pi challenges. Follow their instructions on ettiquette \(e.g., Stack Overflow, see such guidelines as this question checklist - [https://meta.stackoverflow.com/questions/260648/stack-overflow-question-checklist](https://meta.stackoverflow.com/questions/260648/stack-overflow-question-checklist)\)
+* There are specific online communities and sites that can help you with coding and Raspberry Pi challenges. Follow their instructions on etiquette \(e.g., Stack Overflow, see such guidelines as this question checklist - [https://meta.stackoverflow.com/questions/260648/stack-overflow-question-checklist](https://meta.stackoverflow.com/questions/260648/stack-overflow-question-checklist)\)
 * Do not plagiarize or game the system of assessment. Feel free to adapt existing code, as long as you are learning from your work. Participation and doing the work will make it easy for you to get a decent grade in this course. Violating academic conduct and student behavior standards will lead to failing the course and possible additional measures - see: Academic Integrity / Misconduct section.
 
 **Disclaimer:**
@@ -263,6 +263,8 @@ Central Connecticut State University provides reasonable accommodations in accor
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 
-Olivia Franzese
 
+Olivia Franzese
+Janice Sobanski!
+Tucker Boman
 
