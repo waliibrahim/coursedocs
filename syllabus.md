@@ -262,4 +262,6 @@ Central Connecticut State University provides reasonable accommodations in accor
   
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
+
 Janice Sobanski!
+Tucker Boman

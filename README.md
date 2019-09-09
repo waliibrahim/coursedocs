@@ -28,6 +28,10 @@ description: >-
 
 [Signing up for Github](https://app.gitbook.com/@ccsute350/s/te350/~/edit/drafts/-LnJtAnvb1e3Kl7NhZAK/week-1-assignments/signing-up-for-github)
 
+[Week 2 - Class content](week-2-in-class.md)
+
+[Week 2 - Assignments](week-2-assignments.md)
+
 ## ccsuteched
 
 [![Join the chat at https://gitter.im/ccsuteched/community](https://badges.gitter.im/ccsuteched/community.svg)](https://gitter.im/ccsuteched/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
