@@ -136,7 +136,7 @@ There will be many points of self-assessment & a number of summative assessments
 | **Midterm \(short paper\)** |  | **up to 8 points** |
 | **Final project** |  | **up to 18 points** |
 
-| **Weekly assignments** | Each week / section, you'll be asked to complete specific assignments & in many cases also to offer a short writeup, correction, or narrative/commentary, about the week's lessons - e.g., answering a question related to readings, what you learned, what was effective, what was not, changes you would make to refine it. Due by Monday, class time, unless otherwise specified. The due dates are designed to help you progress. \(Late submissions can be accepted up to a week after, the cutoff on Monday of the following week, but they will be docked points.\) |
+| **Weekly assignments** | Each week / section, you'll be asked to complete specific assignments & in many cases also to offer a short writeup, correction, or narrative/commentary, about the week's lessons - e.g., answering a question related to readings, what you learned, what was effective, what was not, changes you would make to refine it. Due by ~~Monday~~  _**Wednesday**_ class time, unless otherwise specified. The due dates are designed to help you progress. \(Late submissions can be accepted up to a week after initial due date, but they will be docked points.\) I have required weekly assignments because coding requires the kind of learning that cannot be crammed just before an exam or end of semester. |
 | :--- | :--- |
 
 
