@@ -163,9 +163,7 @@ There will be many points of self-assessment & a number of summative assessments
     </tr>
   </thead>
   <tbody></tbody>
-</table>**For dates, see the course’s Google calendar at:** [http://bit.ly/ccsuTE350calendar](http://bit.ly/ccsuTE350calendar)
-
-**See GitBook for the latest in Assignments & the updates to our syllabus, as it evolves**
+</table>**See GitBook for the latest in Assignments & the updates to our syllabus, as it evolves**
 
 * Week 1:
   * Intro to Course \(Coding, Raspberry Pis, conceptual / attitudinal goals\) & to each other
@@ -228,12 +226,9 @@ Central Connecticut State University provides reasonable accommodations in accor
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-
-
 **Co-creators of this course include:**
 
-Olivia Franzese   
-Janice Sobanski!   
-Tucker Boman 
-Jack Robert Clonan - 9/8/2019 - I am making commits to this project.
+Olivia Franzese  
+Janice Sobanski!  
+Tucker Boman Jack Robert Clonan - 9/8/2019 - I am making commits to this project.
 
