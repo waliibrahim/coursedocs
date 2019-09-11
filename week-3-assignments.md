@@ -34,6 +34,7 @@ CLI/command line commands we used today:
 1. Introduction to Git: Core Concepts - [https://youtu.be/uR6G2v\_WsRA](https://youtu.be/uR6G2v_WsRA) 
 2. Introduction to Git: Branching and Merging - [https://youtu.be/FyAAIHHClqI](https://youtu.be/FyAAIHHClqI) 
 3. Introduction to Git: Remotes - [https://youtu.be/Gg4bLk8cGNo](https://youtu.be/Gg4bLk8cGNo) 
+4. Adding remotes - [https://youtu.be/kd4jMl\_3LQE](https://youtu.be/kd4jMl_3LQE) \(00:03:30\)
 
 ### Reading:
 
