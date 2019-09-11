@@ -4,12 +4,14 @@ If you haven't yet "joined" the ccsu-te350 organization on Github, please do so:
 
 This allows you to more easily "fork" repositories, share them, submit assignments, have me / classmates help troubleshoot your code when needed.
 
-* [ ] Make **3** git repositories \(any content you want\) & push them to github repos. 
+* [ ] Make **3** git repositories \(any content you want\) & push them to github repos
+  * [ ] Ideally, you will include at least 1 repo that is built from a clone of your github-based fork of [https://github.com/ccsu-te350/emoji-commit](https://github.com/ccsu-te350/emoji-commit)
 * [ ] Send me an email with the addresses of these public github repos.
 
 At the very least, this will force you through git workflows \(git commands & most likely a few command line commands\), such as:
 
 * `git init`
+* `git clone`
 * `git status`
 * `git add` 
 * `git commit`
