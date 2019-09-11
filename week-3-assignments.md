@@ -37,7 +37,7 @@ CLI/command line commands we used today:
 2. Introduction to Git: Branching and Merging - [https://youtu.be/FyAAIHHClqI](https://youtu.be/FyAAIHHClqI) 
 3. Introduction to Git: Remotes - [https://youtu.be/Gg4bLk8cGNo](https://youtu.be/Gg4bLk8cGNo) 
 4. Adding remotes - [https://youtu.be/kd4jMl\_3LQE](https://youtu.be/kd4jMl_3LQE) \(00:03:30\)
-5. A whole series of short videos on Git - [https://www.youtube.com/playlist?list=PLwrxhoDq6Kivqmc3jbqZhQnTuuv8odAdy](https://www.youtube.com/playlist?list=PLwrxhoDq6Kivqmc3jbqZhQnTuuv8odAdy) \(many approx. 3 mins!\)
+5. A whole series of short videos on Git - [https://www.youtube.com/playlist?list=PLwrxhoDq6Kivqmc3jbqZhQnTuuv8odAdy](https://www.youtube.com/playlist?list=PLwrxhoDq6Kivqmc3jbqZhQnTuuv8odAdy) \(many approx. 3-6 mins!\)
 
 ### Reading:
 
