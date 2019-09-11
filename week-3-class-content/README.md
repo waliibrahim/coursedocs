@@ -27,5 +27,5 @@
 * [ ] **git remote -v** \[from Pro Git - Git Basics - Working with Remotes - [https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)\]
 * [ ] **git push origin master**
 
-### **Wed., 9/11/19, by class time - your** [**Week 2 - Assignments**](week-2-assignments.md) **\(edited slightly 9/9/19\) are due**
+### **Wed., 9/11/19, by class time - your** [**Week 2 - Assignments**](../week-2-assignments.md) **\(edited slightly 9/9/19\) are due**
 

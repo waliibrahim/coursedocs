@@ -32,7 +32,7 @@ description: >-
 
 [Week 2 - Assignments](week-2-assignments.md)
 
-[Week 3 - Class content](week-3-class-content.md)
+[Week 3 - Class content](week-3-class-content/)
 
 [Week 3 - Assignments](week-3-assignments.md)
 
