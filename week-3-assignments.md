@@ -50,6 +50,8 @@ CLI/command line commands we used today:
 
 There are many other references you could use. See the References at the bottom of [Week 2's Assignments page](week-2-assignments.md). There are short videos at the git-scm website and the github website on various git and github-related topics, for example.
 
+See also a [Troubleshooting tips page](week-3-class-content/troubleshooting-tips.md) that I put up in response to some things that arose in the 9//11/19 class
+
 For troubleshooting errors or finding help with a specific git command, a commercial web search engine like Google is your friend. Stack Overflow is a website where people working with code / information technology, including git, commonly post questions and problems as well \(e.g., [https://stackoverflow.com/questions/tagged/git](https://stackoverflow.com/questions/tagged/git)\).
 
 
