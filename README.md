@@ -34,6 +34,8 @@ description: >-
 
 [Week 3 - Class content](week-3-class-content.md)
 
+[Week 3 - Assignments](week-3-assignments.md)
+
 ## ccsuteched
 
 [![Join the chat at https://gitter.im/ccsuteched/community](https://badges.gitter.im/ccsuteched/community.svg)](https://gitter.im/ccsuteched/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)

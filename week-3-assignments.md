@@ -4,27 +4,28 @@ If you haven't yet "joined" the ccsu-te350 organization on Github, please do so:
 
 This allows you to more easily "fork" repositories, share them, submit assignments, have me / classmates help troubleshoot your code when needed.
 
-Make 3 git repositories \(any content you want\) & push them to github repos. Send me an email with the addresses of these public github repos.
+* [ ] Make **3** git repositories \(any content you want\) & push them to github repos. 
+* [ ] Send me an email with the addresses of these public github repos.
 
 At the very least, this will force you through git workflows \(git commands & most likely a few command line commands\), such as:
 
-* git init
-* git status
-* git add 
-* git commit
-* git log / git reflog 
-* git remote
-* git push
+* `git init`
+* `git status`
+* `git add` 
+* `git commit`
+* `git log / git reflog` 
+* `git remote`
+* `git push`
 
 You should probably also try making a change in your github repo, then either pulling it down using git pull or using the 2-step equivalent of git fetch + git merge
 
 CLI/command line commands we used today:
 
-* pwd
-* mkdir
-* cd
-* ls
-* touch
+* `pwd`
+* `mkdir`
+* `cd`
+* `ls`
+* `touch`
 
 ## References / Tutorials:
 
