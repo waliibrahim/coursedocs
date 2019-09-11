@@ -34,6 +34,8 @@ description: >-
 
 [Week 3 - Class content](week-3-class-content/)
 
+[Troubleshooting tips](week-3-class-content/troubleshooting-tips.md) from 9/11/19 class
+
 [Week 3 - Assignments](week-3-assignments.md)
 
 ## ccsuteched
