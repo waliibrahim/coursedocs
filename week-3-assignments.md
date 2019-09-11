@@ -44,9 +44,9 @@ CLI/command line commands we used today:
 * “Explain Git like I’m 5” - [https://hackernoon.com/understanding-git-fcffd87c15a3](https://hackernoon.com/understanding-git-fcffd87c15a3) 
 * Pro Git Ch. 2.1-2.5 on “Git Basics” - [https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
 
-  Pro Git Ch. 3.1-3.2 on Branching / Merging [https://git-scm.com/book/en/v2/Git-Branching-](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
+  Pro Git Ch. 3.1-3.2 on Branching / Merging [https://git-scm.com/book/en/v2/Git-Branching-](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)[Branches-in-a-Nutshell](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell) \[for next week\]
 
-* [Branches-in-a-Nutshell](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell) \[for next week\]
+* [https://dzone.com/articles/top-20-git-commands-with-examples](https://dzone.com/articles/top-20-git-commands-with-examples) Top 20 Git commands with examples
 
 There are many other references you could use. See the References at the bottom of [Week 2's Assignments page](week-2-assignments.md). There are short videos at the git-scm website and the github website on various git and github-related topics, for example.
 
