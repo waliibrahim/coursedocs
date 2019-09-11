@@ -234,6 +234,6 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 Olivia Franzese   
 Janice Sobanski!   
-Tucker Boman
+Tucker Boman 
 Jack Robert Clonan - 9/8/2019 - I am making commits to this project.
 
