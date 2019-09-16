@@ -11,4 +11,5 @@
 * [Week 3 - Class content](week-3-class-content/README.md)
   * [Troubleshooting tips](week-3-class-content/troubleshooting-tips.md)
 * [Week 3 Assignments](week-3-assignments.md)
+* [Week 4 - Class content](week-4-class-content.md)
 
