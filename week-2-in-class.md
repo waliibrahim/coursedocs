@@ -2,7 +2,7 @@
 description: Week 2 - In class activities
 ---
 
-# Week 2 in class
+# Week 2 - Class content
 
 * Slides: [https://docs.google.com/presentation/d/1Fc90t3sZUe5S7ry7VU3iTLym-GagFJof51LVt9wAKg0/edit?usp=sharing](https://docs.google.com/presentation/d/1Fc90t3sZUe5S7ry7VU3iTLym-GagFJof51LVt9wAKg0/edit?usp=sharing) 
 * In class activity - "Hello world" in Github [https://docs.google.com/document/d/1NVsXeluktOahdaahEbKWGRV1QIRSDcEge9ELrXXG1Tw/edit?usp=sharing](https://docs.google.com/document/d/1NVsXeluktOahdaahEbKWGRV1QIRSDcEge9ELrXXG1Tw/edit?usp=sharing)

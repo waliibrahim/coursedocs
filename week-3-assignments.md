@@ -1,4 +1,4 @@
-# Week 3 Assignments
+# Week 3 - Assignments
 
 If you haven't yet "joined" the ccsu-te350 organization on Github, please do so: [https://github.com/ccsu-te350](https://github.com/ccsu-te350)
 
