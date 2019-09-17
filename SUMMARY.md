@@ -13,4 +13,5 @@
 * [Week 3 - Assignments](week-3-assignments.md)
 * [Week 4 - Class content](week-4-class-content.md)
 * [Week 4 - Assignments - Part 1](week-4-assignments.md)
+* [Week 4 - Assignments - Part 2](week-4-assignments-part-2.md)
 
