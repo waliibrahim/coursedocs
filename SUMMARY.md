@@ -12,8 +12,8 @@
   * [Troubleshooting tips](week-3-class-content/troubleshooting-tips.md)
 * [Week 3 - Assignments](week-3-assignments.md)
 * [Week 4 - Class content](week-4-class-content.md)
-* [Week 4 Assignments](week-4-assignments-1/README.md)
-  * [Week 4 - Assignments - Part 1](week-4-assignments-1/week-4-assignments.md)
-  * [Week 4 - Assignments - Part 2](week-4-assignments-1/week-4-assignments-part-2/README.md)
-    * [Raspberry Pi Projects](week-4-assignments-1/week-4-assignments-part-2/raspberry-pi-projects.md)
+* [Week 4 Assignments](week-4-assignments/README.md)
+  * [Week 4 - Assignments - Part 1](week-4-assignments/week-4-assignments.md)
+  * [Week 4 - Assignments - Part 2](week-4-assignments/week-4-assignments-part-2/README.md)
+    * [Raspberry Pi Projects](week-4-assignments/week-4-assignments-part-2/raspberry-pi-projects.md)
 
