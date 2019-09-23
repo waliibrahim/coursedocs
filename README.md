@@ -40,6 +40,8 @@ description: >-
 
 [Week 4 - Class content](week-4-class-content.md)
 
+[Week 4 - Assignments](week-4-assignments/) - Due 9/25/19
+
 ## ccsuteched
 
 [![Join the chat at https://gitter.im/ccsuteched/community](https://badges.gitter.im/ccsuteched/community.svg)](https://gitter.im/ccsuteched/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
