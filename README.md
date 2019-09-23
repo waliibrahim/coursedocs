@@ -38,7 +38,7 @@ description: >-
 
 [Week 3 - Assignments](week-3-assignments.md)
 
-[Week 4 - Class content](week-4-class-content.md)
+[Week 4 - Class content](week-4-class-content.md) \[Up through class on 9/18/19 - POINTS: max regular cr. 27, max. inc. extra CR. 30\]
 
 [Week 4 - Assignments](week-4-assignments/) - Due 9/25/19
 
