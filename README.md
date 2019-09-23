@@ -42,6 +42,8 @@ description: >-
 
 [Week 4 - Assignments](week-4-assignments/) - Due 9/25/19
 
+[Week 5, Day 1 \(Raspberry Pi Day 2\)](https://docs.google.com/presentation/d/11KHErfUbqOJbLPhToZeOWOeYjryDSgxqQP2exr2reS8/edit?usp=sharing)
+
 ## ccsuteched
 
 [![Join the chat at https://gitter.im/ccsuteched/community](https://badges.gitter.im/ccsuteched/community.svg)](https://gitter.im/ccsuteched/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
