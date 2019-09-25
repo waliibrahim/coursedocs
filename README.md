@@ -42,8 +42,6 @@ description: >-
 
 [Week 4 - Assignments](week-4-assignments/) - Due 9/25/19
 
-[Week 5, Day 1 \(Raspberry Pi Day 2\)](https://docs.google.com/presentation/d/11KHErfUbqOJbLPhToZeOWOeYjryDSgxqQP2exr2reS8/edit?usp=sharing)
-
 [Week 5 - Class Content](week-5-class-content.md)
 
 [Week 5 - Assignments](week-5-assignments.md)
