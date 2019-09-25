@@ -16,7 +16,7 @@
 * MDN - Web Demystified:
   * What is HTML & How Does it work? [https://youtu.be/PORRrz3Y8Vc](https://youtu.be/PORRrz3Y8Vc) \(00:07:15\)
 
-### **Learning by Reading & Doing** 
+### **Learn by Reading & Doing** 
 
 **\(Tutorials / Lessons \[with live editors built-in for exercises\]\):**
 
