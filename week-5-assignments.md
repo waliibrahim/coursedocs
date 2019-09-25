@@ -1,7 +1,5 @@
 # Week 5 - Assignments
 
-
-
 **Readings:**
 
 * **“As We May Think” -** [**https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/**](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
@@ -18,7 +16,7 @@
 **Audio / Listen to Podcasts:**
 
 * **TED Radio Hour - “Open Source World” -** [**https://www.npr.org/programs/ted-radio-hour/449179937/open-source-world**](https://www.npr.org/programs/ted-radio-hour/449179937/open-source-world)
-* **Command Line Heroes, Operating System Wars, Parts 1 & 2 -** [**https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-1**](https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-1) **&** [**https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-2-rise-of-linux**  ](https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-2-rise-of-linux)
+* **Command Line Heroes, Operating System Wars, Parts 1 & 2 -** [**https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-1**](https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-1) **&** [**https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-2-rise-of-linux** ](https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-2-rise-of-linux)
 
 **Videos:**
 
