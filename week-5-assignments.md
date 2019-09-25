@@ -8,13 +8,14 @@
 
 ### **Listen to \(Audio / Podcasts\):**
 
-* TED Radio Hour - “Open Source World” - [https://www.npr.org/programs/ted-radio-hour/449179937/open-source-world](https://www.npr.org/programs/ted-radio-hour/449179937/open-source-world)
-* Command Line Heroes, Operating System Wars, Parts 1 & 2 - [https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-1](https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-1) & [https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-2-rise-of-linux](https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-2-rise-of-linux)
+* TED Radio Hour - “Open Source World” - [https://www.npr.org/programs/ted-radio-hour/449179937/open-source-world](https://www.npr.org/programs/ted-radio-hour/449179937/open-source-world) \(00:48:07\)
+* Command Line Heroes, Operating System Wars, Parts 1 & 2 \[from Season 1\] - [https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-1](https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-1) \(00:28:57\) & [https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-2-rise-of-linux](https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-2-rise-of-linux) \(00:27:38\)
 
 ### **Watch \(Videos\):**
 
 * MDN - Web Demystified:
   * What is HTML & How Does it work? [https://youtu.be/PORRrz3Y8Vc](https://youtu.be/PORRrz3Y8Vc) \(00:07:15\)
+* The Power of "Not Yet" - Growth Mindset talk at TED by Carol Dweck - [https://www.ted.com/talks/carol\_dweck\_the\_power\_of\_believing\_that\_you\_can\_improve?language=en](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=en) \(00:10:12\)
 
 ### **Learn by Reading & Doing** 
 
