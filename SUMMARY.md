@@ -17,4 +17,5 @@
   * [Week 4 - Assignments - Part 2](week-4-assignments/week-4-assignments-part-2/README.md)
     * [Raspberry Pi Projects](week-4-assignments/week-4-assignments-part-2/raspberry-pi-projects.md)
 * [Week 5 - Class content](week-5-class-content.md)
+* [Week 5 - Assignments](week-5-assignments.md)
 
