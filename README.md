@@ -46,6 +46,8 @@ description: >-
 
 [Week 5 - Assignments](week-5-assignments.md)
 
+[Week 6 - Class content](week-6-class-content.md)
+
 
 
 ## ccsuteched
