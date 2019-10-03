@@ -1,7 +1,5 @@
 # Week 6 - Assignments
 
-
-
 ### **Read & Do, per the outline presented below:** 
 
 * Homework Assignment, Week 6 - Assessment activity - Create a Webpage and Style it
