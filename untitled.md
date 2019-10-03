@@ -1,4 +1,4 @@
-# Week 6 Assignments
+# Week 6 - Assignments
 
 
 
