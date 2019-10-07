@@ -50,7 +50,7 @@ description: >-
 
 [Week 6 - Assignments](untitled.md)
 
-
+[Week 7 - Class content](week-7-class-content.md)
 
 ## ccsuteched
 
