@@ -1,6 +1,14 @@
 # Week 7 - Class content
 
 * [Slides, 10/7/19 - Improving our HTML code - debugging](https://docs.google.com/presentation/d/1O6tUmWSASJBosDxJa4D88FpQVWN9ClslIYR4nLC753U/edit?usp=sharing)
+* References:
+
+  * [https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction\_to\_HTML/Debugging\_HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)
+
+* Tools:
+  * HTML Validator - [https://validator.w3.org/](https://validator.w3.org/)
+  * CSS Validator - [https://jigsaw.w3.org/css-validator/](https://jigsaw.w3.org/css-validator/)
+  * Accessibility Checker - [https://achecker.ca/checker/](https://achecker.ca/checker/)
 
 **Exercise on HTML debugging \(with git practice, too\):**
 
